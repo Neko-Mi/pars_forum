@@ -1,2 +1,2 @@
 # pars_forum
-parsing messages for user in mangalib forum
+parsing messages for user from mangalib forum
